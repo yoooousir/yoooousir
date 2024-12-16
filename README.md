@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
@@ -35,13 +33,16 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+<hr style="width:80%; margin:20px auto; border:1px solid #ccc;">
+
 <h3 align="center">🎈 BaekJoon Profile 🎈</h3>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wcwp_537199" alt="Solved.ac 프로필" />
 </p>
 
+<hr style="width:80%; margin:20px auto; border:1px solid #ccc;">
+
 <h3 align="center">🔔 GitHub Stats 🔔</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoooousir&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoooousir&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoooousir&show_icons=true&theme=nightowl" alt="GitHub Stats" />
 </p>
