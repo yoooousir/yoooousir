@@ -34,3 +34,19 @@
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+<h3 align="center">🎈 BaekJoon Profile 🎈</h3>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wcwp_537199" alt="Solved.ac 프로필" />
+</p>
+
+<h3 align="center">🔔 GitHub Stats 🔔</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoooousir&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoooousir&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoooousir&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
