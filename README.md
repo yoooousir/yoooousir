@@ -38,6 +38,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wcwp_537199" alt="Solved.ac Profile">
   </a>
   <a href="https://github.com/yoooousir">
-    <img src="https://github-readme-stats.vercel.app/api?username=yoooousir&show_icons=true&theme=onedark" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=yoooousir&show_icons=true&hide=issues&hide_title=true&count_private=true&include_all_commits=true&line_height=24&card_width=400&theme=onedark" alt="GitHub Stats">
   </a>
 </p>
