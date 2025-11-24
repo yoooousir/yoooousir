@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?types=slice&color=auto&height=300&section=header&text=ChaeyoungKim&fontsize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ChaeyoungKim&fontSize=90)
 <hr style="width:80%; margin:20px auto; border:1px solid #ccc;">
 
 <h3 align="center">✨ Tech Stack ✨</h3>
